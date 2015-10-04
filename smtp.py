@@ -19,7 +19,7 @@ now = datetime.now()
 subject='Ubuntu 14.04 ifconfig message'+now.strftime('%Y-%m-%d %H:%M:%S')
 smtpserver='smtp.163.com'
 username='sjzlyl406'
-password='lyl316643'
+password='********'
 
 import subprocess, re
 
