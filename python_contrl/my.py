@@ -1,6 +1,8 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
+"如果联网，执行smtp模块中的smtpfuc()函数"
+
 import os
 from smtp import smtpfuc
 
